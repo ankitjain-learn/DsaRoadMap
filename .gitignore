@@ -3,6 +3,18 @@
 
 # Log file
 *.log
+*.xml
+
+
+#intelli-j
+*.iml
+*.idea/*
+out.*
+idea/*
+modules.xml
+misc.xml
+*/.idea/workspace.xml
+*/.idea/modules.xml
 
 # BlueJ files
 *.ctxt
