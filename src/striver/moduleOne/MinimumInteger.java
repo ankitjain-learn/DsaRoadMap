@@ -1,6 +1,6 @@
 package src.striver.moduleOne;
 
-public class IntegerMinExample1 {
+public class MinimumInteger {
     public static void main(String[] args) {  
         // Get two integer numbers  
           int a = 5485;  

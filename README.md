@@ -25,3 +25,7 @@ To remove cached files
 2. when doing palindrome consider swapping with 2 pointers till equal to n/2
 3. swapping can be ignored and only equals check can be made 
 4. Base condition is very important in recursion to break the loops 
+
+## todo ##
+**implement tic tae toe and cache** 
+> do rec problems and basic maths ** 
