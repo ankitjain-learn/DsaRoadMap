@@ -1,4 +1,4 @@
-package src;
+package src.striver.moduleOne;
 
 public class Main {
     public static void main(String[] args) {

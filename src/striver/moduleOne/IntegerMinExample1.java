@@ -1,4 +1,4 @@
-package src;
+package src.striver.moduleOne;
 
 public class IntegerMinExample1 {
     public static void main(String[] args) {  

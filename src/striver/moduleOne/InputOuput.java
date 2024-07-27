@@ -1,4 +1,4 @@
-package src;
+package src.striver.moduleOne;
 
 import java.util.Scanner;
 

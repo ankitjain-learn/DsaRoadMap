@@ -1,4 +1,4 @@
-package src;
+package src.striver.moduleTwo;
 
 public class Patterns
 {
